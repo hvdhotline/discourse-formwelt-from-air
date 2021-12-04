@@ -1,0 +1,12 @@
+// import font
+@font-face {
+   font-family: Ranade;
+   src: url($font_ranade_thin) format('woff2')
+ }
+
+// variables on root
+
+:root {
+   --font-family: "Open Sans", Arial, Helvetica, sans-serif;
+   --heading-font-family: "Ranade";
+}

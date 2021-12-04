@@ -1,0 +1,49 @@
+body-background: #040727
+box-color: rgba(130, 155, 255, 0.06);
+Link: #829bff;
+white: #fffaf2;
+orange: #ed7535;
+grey: #a39f97;
+
+air-dark-old:
+"air-dark": {
+      "primary": "e0e0e0",
+      "secondary": "2d2d2d",
+      "tertiary": "9a5cfd",
+      "quaternary": "71bd9f",
+      "header_background": "202020",
+      "header_primary": "e0e0e0",
+      "highlight": "9a5cfd",
+      "danger": "d05454",
+      "success": "71bd9f",
+      "love": "c16ad7"
+    }
+
+Formwelt-Icon:
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<g style="fill:none; stroke:currentColor; stroke-width: 0.25rem; stroke-linecap:round; stroke-miterlimit:10;">
+	<path d="M13.22,50.44c0-12.1,9.65-21.91,21.54-21.91c11.9,0,20.45,9.81,20.45,21.91"></path>
+	<path d="M13.22,50.44c0,13.07,10.6,23.66,23.66,23.66c13.07,0,23.66-10.6,23.66-23.66"></path>
+	<path d="M3,50.44c0-16.29,12.89-29.51,28.78-29.51c15.89,0,28.78,13.21,28.78,29.51"></path>
+	<path d="M50,3c25.95,0,47,21.05,47,47c0,25.95-21.05,47-47,47C24.05,97,3,76.39,3,50.44C3,24.49,24.05,3,50,3z"></path>
+</g>
+<circle style="fill:currentColor; stroke-width: 0.25rem; stroke:currentColor; stroke-linecap:round; stroke-miterlimit:10;" cx="45.13" cy="50.44" r="10.1"></circle>
+</svg>
+
+Background-Erde:
+.bg-img-earth {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    display: block;
+    width: 100%;
+    height: 100%;
+    margin-top: -46px;
+    margin-right: -767px;
+    background-color: #040727;
+    background-image: url(https://uploads-ssl.webflow.com/6062519…/60a278f…_globe_east_2048__mod1.jpg);
+    background-position: 50% 0%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    opacity: 0.2;
+}
