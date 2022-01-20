@@ -25,11 +25,11 @@
       "love": "c16ad7"
     },
     "formwelt-dark": {
-      "primary": "e0e0e0",
+      "primary": "fffaf2",
       "secondary": "040727",
       "tertiary": "829bff",
       "quaternary": "ed7535",
-      "header_background": "040314",
+      "header_background": "040727",
       "header_primary": "a39f97",
       "highlight": "829bff",
       "danger": "d05454",
