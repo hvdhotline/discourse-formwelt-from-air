@@ -12,7 +12,7 @@
     "font_ranade_thin" : "assets/Ranade-Thin.woff2"
   },
   "color_schemes": {
-    "air-light": {
+    "formwelt-light": {
       "primary": "1c1c1c",
       "secondary": "f9fcff",
       "tertiary": "3877e5",
@@ -24,17 +24,17 @@
       "success": "71bd9f",
       "love": "c16ad7"
     },
-    "air-dark": {
+    "formwelt-dark": {
       "primary": "e0e0e0",
       "secondary": "040727",
       "tertiary": "829bff",
       "quaternary": "ed7535",
-      "header_background": "040727",
-      "header_primary": "e0e0e0",
-      "highlight": "9a5cfd",
+      "header_background": "040314",
+      "header_primary": "a39f97",
+      "highlight": "829bff",
       "danger": "d05454",
       "success": "71bd9f",
-      "love": "c16ad7"
+      "love": "fe0101"
     }
   },
   "modifiers": {
