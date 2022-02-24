@@ -14,6 +14,8 @@
   "color_schemes": {
     "formwelt-light": {
       "primary": "040727",
+      "primary-medium": "040727",
+      "primary-high": "040727",
       "secondary": "f9fcff",
       "tertiary": "3877e5",
       "quaternary": "7e8b93",
